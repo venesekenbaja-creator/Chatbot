@@ -1,2 +1,2 @@
 # Chatbot
-about chatbot ngani
+about chatbot ngan
